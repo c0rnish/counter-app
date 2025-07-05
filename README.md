@@ -1,3 +1,4 @@
 # counter-app
 Counter web app
-![](https://github.com/user-attachments/assets/f69cd8f3-445e-4ec3-bb7d-3c1c648355f7)
+
+![](https://github.com/user-attachments/assets/7c3c8561-b2de-46c9-ad9a-e04e86da252e)
